@@ -21,7 +21,6 @@
 
 <script setup>
 import prodata_logo from "~/assets/images/prodata_logo.png";
-import ufaz_logo from "~/assets/images/ufaz_logo.png";
 import banm_logo from "~/assets/images/banm_logo.png";
 
 const companies = [
@@ -31,13 +30,6 @@ const companies = [
     name: "PRODATA LLC",
     about:
       "aLLMA Lab is sponsored by PRODATA LLC. Company dedicates substantial engineering time and hardware resources to the lab. aLLMA Lab is established and maintained by the NLP team at PRODATA.",
-  },
-  {
-    img: ufaz_logo,
-    className: "ufaz_logo",
-    name: "French-Azerbaijani University (UFAZ)",
-    about:
-      "As part of PRODATA's collaboration with UFAZ, we routinely hire interns who work at our open-source projects.",
   },
   {
     img: banm_logo,
@@ -80,15 +72,6 @@ const companies = [
   box-shadow: 3px 5px 6px rgba(0, 0, 0, 0.2);
 }
 
-.collaborations-card__ufaz_logo {
-  // border: 1px solid #878787;
-  border-radius: 15px;
-  width: 7.5rem;
-  height: 3.78rem;
-  padding: 7.31rem 5.43rem;
-  background: #fafafa;
-  box-shadow: 3px 5px 6px rgba(0, 0, 0, 0.2);
-}
 
 .collaborations-card__banm_logo {
   // border: 1px solid #878787;

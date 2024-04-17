@@ -51,7 +51,6 @@
 import illustration from "/assets/images/illustration.svg";
 import illustration2 from "/assets/images/illustration2.svg";
 import prodata_logo from "~/assets/images/prodata_logo.png";
-import ufaz_logo from "~/assets/images/ufaz_logo.png";
 import banm_logo from "~/assets/images/banm_logo.png";
 
 const blogs = [
@@ -93,7 +92,6 @@ const teamMembers = [
 
 const collaborations = [
   { img: prodata_logo, name: "prodata_logo" },
-  { img: ufaz_logo, name: "ufaz_logo" },
   { img: banm_logo, name: "banm_logo" },
 ];
 </script>
@@ -230,11 +228,6 @@ p {
   .prodata_logo {
     width: 171px;
     height: 27px;
-  }
-
-  .ufaz_logo {
-    width: 120px;
-    height: 61px;
   }
 
   .banm_logo {
