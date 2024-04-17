@@ -82,12 +82,7 @@ const teamMembers = [
     img: illustration,
     name: "Jafar Isbarov",
     role: "ML Engineer at PRODATA",
-  },
-  {
-    img: illustration2,
-    name: "Kavsar Huseynova",
-    role: "ML Engineer at PRODATA",
-  },
+  }
 ];
 
 const collaborations = [
