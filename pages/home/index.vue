@@ -2,7 +2,7 @@
   <div>
     <div class="home-header">
       <div class="home-header__title">
-        Unlock the Power of Machine Learning with Us
+        Open-source software, data, and language models.
       </div>
       <div class="home-header__about">
         We are a small team of engineers mostly located in Baku, Azerbaijan. Our
