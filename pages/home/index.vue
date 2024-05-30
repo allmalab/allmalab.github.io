@@ -54,27 +54,6 @@ import prodata_logo from "~/assets/images/prodata_logo.png";
 import banm_logo from "~/assets/images/banm_logo.png";
 
 const blogs = [
-  {
-    id: 1,
-    title: "ML Consulting",
-    author: "@jafar",
-    content:
-      "ML Consulting: From strategy development to implementation and optimization, our consulting services cover the entire ML lifecycle, helping you leverage data to drive business success.",
-  },
-  {
-    id: 1,
-    title: "NLP",
-    author: "@kavsar",
-    content:
-      "Looking for a scalable, cost-effective ML solution without the overhead of infrastructure management? Our MLaaS offerings provide on-demand access to powerful ML capabilities",
-  },
-  {
-    id: 1,
-    title: "ML Models",
-    author: "@haim",
-    content:
-      "We specialize in developing custom ML models tailored to your specific requirements, whether it's predictive analytics, natural language processing, computer vision, or beyond.",
-  },
 ];
 
 const teamMembers = [
