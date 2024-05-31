@@ -7,7 +7,7 @@
       <slot />
     </div>
     <div class="footer">
-      <div>© 2024 Goodspeed. All rights reserved.</div>
+      <div>© 2024 aLLMA Lab. All rights reserved.</div>
       <img
         src="/assets/images/prodata_logo.png"
         alt="prodata-logo"
