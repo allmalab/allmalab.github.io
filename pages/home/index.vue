@@ -22,28 +22,6 @@
         </div>
       </div>
     </div>
-    <div class="home-team-wrapper">
-      <div class="home-team__header">Meet our team</div>
-      <div class="home-team-members">
-        <div
-          class="home-team-card"
-          v-for="(item, index) in teamMembers"
-          :key="index"
-        >
-          <img :src="item.img" :alt="item.name" />
-          <div class="team-card__name">{{ item.name }}</div>
-          <div class="team-card__role">{{ item.role }}</div>
-        </div>
-      </div>
-    </div>
-    <div class="home-collaborations">
-      <div class="home-collaborations_title">Collaborations</div>
-      <div class="home-collaborations__logos">
-        <div v-for="(item, index) in collaborations" :key="index">
-          <img :src="item.img" :alt="item.name" :class="item.name" />
-        </div>
-      </div>
-    </div>
   </div>
 </template>
 
