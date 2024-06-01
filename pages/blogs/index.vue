@@ -25,6 +25,13 @@ const route = useRoute();
 const blogPost = ref({});
 
 const blogs = [
+  {
+    id: "test",
+    title: "Test",
+    author: "@jafar",
+    content:
+      "ML Consulting: From strategy development to implementation and optimization, our consulting services cover the entire ML lifecycle, helping you leverage data to drive business success.",
+  }
 ];
 
 onMounted(() => {
