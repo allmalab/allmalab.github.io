@@ -10,11 +10,11 @@
       </div>
     </div>
     <div class="image-container">
-      <a :href="image1.link" target="_blank">
-        <img :src="image1.src" :alt="image1.alt" class="clickable-image" />
+      <a :href="huggingface.co/allmalab" target="_blank">
+        <img :src="assets/images/hf.png" class="clickable-image" />
       </a>
-      <a :href="image2.link" target="_blank">
-        <img :src="image2.src" :alt="image2.alt" class="clickable-image" />
+      <a :href="github.com/allmalab" target="_blank">
+        <img :src="assets/images/github.png" class="clickable-image" />
       </a>
     </div>
     <div class="home-blogs-wrapper">
