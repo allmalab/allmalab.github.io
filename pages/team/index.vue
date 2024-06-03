@@ -14,6 +14,7 @@
 <script setup>
 import team_member_1 from "~/assets/images/team-member-1.png";
 import team_member_2 from "~/assets/images/team-member-2.png";
+import team_member_3 from "~/assets/images/team-member-3.png";
 
 const teamMembers = [
   {
@@ -26,7 +27,13 @@ const teamMembers = [
     img: team_member_2,
     name: "Kavsar Huseynova",
     about:
-      "Data scientist at PRODATA LLC. BSc Compter Engineering student at Baku Higher Oil School.",
+      "Machine learning engineer at PRODATA LLC. BSc Compter Engineering student at Baku Higher Oil School.",
+  },
+  {
+    img: team_member_3,
+    name: "Elvin Mammadov",
+    about:
+      "Junior data scientist at PRODATA LLC. BSc Process Automation Engineering student at Baku Higher Oil School.",
   },
 ];
 </script>
