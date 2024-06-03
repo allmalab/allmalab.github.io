@@ -11,10 +11,10 @@
     </div>
     <div class="image-container">
       <a href="https://huggingface.co/allmalab" target="_blank">
-        <img src="assets/images/hf.png" class="clickable-image" width="500"/>
+        <img src="assets/images/hf.png" class="clickable-image" style="width:30px;height:auto;"/>
       </a>
       <a href="https://github.com/allmalab" target="_blank">
-        <img src="assets/images/github.png" class="clickable-image" width="500"/>
+        <img src="assets/images/github.png" class="clickable-image" style="width:30px;height:auto;"/>
       </a>
     </div>
     <div class="home-blogs-wrapper">
