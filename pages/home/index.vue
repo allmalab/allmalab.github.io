@@ -9,6 +9,14 @@
         goal is to provide open-source NLP resources for Azerbaijani.
       </div>
     </div>
+    <div class="image-container">
+      <a :href="image1.link" target="_blank">
+        <img :src="image1.src" :alt="image1.alt" class="clickable-image" />
+      </a>
+      <a :href="image2.link" target="_blank">
+        <img :src="image2.src" :alt="image2.alt" class="clickable-image" />
+      </a>
+    </div>
     <div class="home-blogs-wrapper">
       <div class="home-blog-card" v-for="(item, index) in blogs" :key="index">
         <h2>{{ item.title }}</h2>
@@ -186,6 +194,16 @@ p {
     width: 169px;
     height: 83px;
   }
+}
+
+.image-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.clickable-image {
+  width: 48%;
+  cursor: pointer;
 }
 
 @media (min-width: 680px) {
