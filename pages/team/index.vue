@@ -13,7 +13,7 @@
 
 <script setup>
 import team_member_1 from "~/assets/images/team-member-1.png";
-import team_member_2 from "~/assets/images/team-member-2.png";
+import team_member_2 from "~/assets/images/team-member-2.jpeg";
 import team_member_3 from "~/assets/images/team-member-3.jpg";
 
 const teamMembers = [
