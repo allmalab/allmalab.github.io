@@ -2,8 +2,8 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Selected publications of NALA members (since 2020).
-years: [2024, 2023, 2022, 2021, 2020]
+description: Publications of the aLLMA Lab team (since 2024).
+years: [2024]
 nav: true
 ---
 

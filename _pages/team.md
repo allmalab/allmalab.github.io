@@ -52,12 +52,12 @@ nav: true
 {% endfor %}
 </div>
 
-<br>
+<!-- <br>
 <div>
-  <h2 class="card-title">Previous NALA members</h2>
+  <h2 class="card-title">Previous members</h2>
   <ul>
   {% for person in site.data.ex_team %}
   <li>{{ person.name }} ({{ person.level }}, {{person.start}}-{{person.end}})</li>
   {% endfor %}
   </ul>
-</div>
+</div> -->
