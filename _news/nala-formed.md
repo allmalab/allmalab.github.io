@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2020-08-24 
+date: 2024-07-21 
 inline: true
 ---
 
-Birthday of NALA! :sparkles: :smile:
+aLLMA Lab gradually emerged out of our works at PRODATA throughout 2024. We take this date as the "official" birthday of our lab.
