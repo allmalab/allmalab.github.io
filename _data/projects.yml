@@ -1,20 +1,12 @@
-- name: Universal Natural Language Processing
-  description: The majority of the world's 7000 languages have limited training data for natural language processing systems available. At NALA, we investigate how we can build NLP systems for those so-called low-resource languages. Techniques we use include but are not limited to transfer learning, pretraining, and meta-learning.
-  link: universal_nlp
+- name: Encoder-only foundation models for Azerbaijani
+  description: We are working to build foundation models for Azerbaijani. These models are encoder-only, which makes them suitable for various NLU tasks.
+  link: foundation_models
   
-- name: Natural Language Processing for Educational Applications
-  description: Artificial intelligence and NLP have the potential to revolutionize learning by assiting both students and teachers. At NALA, we investigate how NLP can help to make learning and teaching more effective.
-  link: educational_applications
+- name: Semantic embedding models for Azerbaijani
+  description: Building a foundation model does not necessarily give us a semantic embedding model. We may need to fine-tune these models further for this task. This has been quite tricky for Azerbaijani.
+  link: embeddings
   
-- name: Computational Morphology
-  description: Words are composed of meaning-bearing units, their morphemes. At NALA, we study how morphemes can be combined into words, and how words can be decomposed to recover the original morphemes. We also investigate how we can leverage subword information to build better NLP systems.
-  link: computational_morphology
+- name: Web-scale text corpus for Azerbaijani
+  description: There are several Azerbaijani text corpora at the scale of hundreds of millions of words. We intend to push this number to billions without sacrificing the quality. This requires sophisticated automation pipelines in several stages.
+  link: corpus
   
-- name: Low-resource Machine Translation
-  description: While machine translation (MT) works very well for many high-resource language pairs, for many low-resource languages, automatic translation is extremely difficult. In addition to the data scarcity problem, many low-resource languages exhibit different typological features from languages frequently studied in NLP, which poses another challenge. At NALA, we aim to build MT systems for as many languages as possible.
-  link: low_resource_MT
-  
-- name: Language Grounding
-  description: Models trained on text only arguably cannot truly understand language, since understanding arrives by grounding language to real-world experiences. At NALA, we explore how we can provide models with the opportunity to interact with and observe the concepts they are expected to communicate about.
-  link: language_grounding
-
