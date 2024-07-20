@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to the website of aLLMA Lab, an independent research lab located in Baku. The lab was founded by Jafar Isbarov and Kavsar Huseynova. You can find more information about our team in this <a href="/publications/">page</a>.
+Welcome to the website of aLLMA Lab, an independent research lab located in Baku. The lab was founded by Jafar Isbarov and Kavsar Huseynova. You can find more information about our team in this <a href="/team/">page</a>.
 
 We develop natural language processing (NLP) methods and tools for Azerbaijani language. We are currently interested in developing the following solutions for Azerbaijani:
 
