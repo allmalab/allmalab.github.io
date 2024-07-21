@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /joining_us/
-title: joining us
-description: Become a member of aLMMA Lab!
+permalink: /contribute/
+title: contribute
+description:
 nav: true
 ---
 
