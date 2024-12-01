@@ -6,7 +6,7 @@ title: aLLMA Lab # the website title (if blank, full name will be used instead)
 first_name: aLLMA
 middle_name:
 last_name: Lab
-email: jafar.isbarov@gwmail.gwu.edu
+email: jafar.isbarov@gwu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Website of aLLMA Lab
 footer_text: >
@@ -50,7 +50,7 @@ research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 
 contact_note: >
-  You can contact us at jafar.isbarov@gwmail.gwu.edu.
+  You can contact us at jafar.isbarov@gwu.edu.
 
 google_analytics: # out your google-analytics code
 
