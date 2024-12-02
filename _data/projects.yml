@@ -1,12 +1,29 @@
+---
 - name: Encoder-only foundation models for Azerbaijani
-  description: We are working to build BERT-class foundation models for Azerbaijani. These models are suitable for various NLU tasks.
+  description: We are working to build BERT-class foundation models for
+    Azerbaijani. These models are suitable for various NLU tasks.
   link: foundation_models
-  
+  color: rgba(197, 211, 232, 0.4)
+  deliverables:
+    - <a href="https://huggingface.co/allmalab/bert-tokenizer-aze">SentencePiece
+      tokenizer for Azerbaijani</a>
+    - '<a
+      href="https://huggingface.co/collections/allmalab/allma-models-669b63077f28c43e091270cb">aLLMA:
+      a series of Azerbaijani-only foundation models</a>'
+    - '<a href="https://huggingface.co/datasets/allmalab/DOLLMA">DOLLMA: the
+      text corpus used to train aLLMA models</a>'
+    - '<a href="https://aclanthology.org/2024.sigturk-1.2/">Presented in the 1st SIGTURK Conference. Best paper award (honorale mention). </a>'
+
 - name: Semantic embedding models for Azerbaijani
-  description: Building a foundation model does not necessarily give us a semantic embedding model. We may need to fine-tune these models further for this task. This has been quite tricky for Azerbaijani.
+  description: Building a foundation model does not necessarily give us a semantic
+    embedding model. We may need to fine-tune these models further for this
+    task. This has been quite tricky for Azerbaijani.
   link: embeddings
-  
+  color: rgba(208, 232, 197, 0.4)
 - name: Web-scale text corpus for Azerbaijani
-  description: There are several Azerbaijani text corpora at the scale of hundreds of millions of words. We intend to push this number to billions without sacrificing the quality. This requires sophisticated automation pipelines in several stages.
+  description: There are several Azerbaijani text corpora at the scale of hundreds
+    of millions of words. We intend to push this number to billions without
+    sacrificing the quality. This requires sophisticated automation pipelines in
+    several stages.
   link: corpus
-  
+  color: rgba(255, 248, 222, 0.4)

@@ -3,7 +3,7 @@ layout: page
 permalink: /resources/
 title: resources
 description: aLLMA Lab's published resources.
-nav: true
+nav: false
 ---
 
 <ul>
