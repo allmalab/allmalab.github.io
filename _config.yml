@@ -48,9 +48,10 @@ quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
+huggingface_username: allmalab
 
 contact_note: >
-  You can contact us at jafar.isbarov@gwu.edu.
+  You can contact us at jafar.isbarov AT gwu.edu.
 
 google_analytics: # out your google-analytics code
 
